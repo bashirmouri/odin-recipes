@@ -1,1 +1,1 @@
-This project aims to create a wegsite using html, it will not be very stylish but aims to have the logic necessary
+This project aims to create a web site using html, it will not be very stylish but aims to have the logic necessary
